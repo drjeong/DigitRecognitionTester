@@ -1,0 +1,2 @@
+# DigitRecognitionTester (neural networks tester)
+
