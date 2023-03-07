@@ -9,3 +9,4 @@ It uses multiple 64bit external libraries (CSV parser). The library files are in
 Testing datasamples are included in the folder (TestingDatasets)
 
 
+![Screenshot](assets/overview.png)
